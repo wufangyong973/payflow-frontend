@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "gfi/54-api-fail-soft",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "gfi/54-api-fail-soft": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "gfi/54-api-fail-soft",
+    "origin"
+  ]
+}
